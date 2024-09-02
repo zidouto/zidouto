@@ -5,4 +5,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zidouto&show_icons=true&theme=radical" alt="zidouto" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zidouto&" alt="zidouto" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zidouto&theme=radical" alt="zidouto" /></p>
